@@ -1,0 +1,10 @@
+{
+  "name": "genpark-screen-context",
+  "version": "1.0.0",
+  "description": "GenPark Screen Context - Accessibility Tree bounding box normalizer, viewport occlusion clipping polygon solver, and omnichannel intent trigger matcher with zero dependencies.",
+  "tools": [
+    "resolve_axtree_bounding_boxes",
+    "calculate_viewport_occlusion_and_clipping",
+    "match_omnichannel_intent_trigger"
+  ]
+}
